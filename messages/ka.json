@@ -24,5 +24,133 @@
   },
   "Footer": {
     "copyright": "© {year} {name}"
+  },
+  "Home": {
+    "metadata": {
+      "title": "უფროსი Frontend დეველოპერი — React, Next.js და TypeScript",
+      "description": "გურამ ხასია არის უფროსი Frontend დეველოპერი, რომელიც სპეციალიზდება მასშტაბირებად React, Next.js, TypeScript და მიკრო-ფრონტენდ არქიტექტურებში."
+    },
+    "hero": {
+      "eyebrow": "გურამ ხასია",
+      "title": "უფროსი Frontend დეველოპერი",
+      "lead": "Frontend ინჟინერი, რომელიც სპეციალიზდება მასშტაბირებად ვებ-არქიტექტურებში, მიკრო-ფრონტენდებსა და მაღალი წარმადობის Enterprise აპლიკაციებში საბანკო და საერთაშორისო სფეროებისთვის.",
+      "emailCta": "დამიკავშირდით",
+      "githubCta": "GitHub-ის პროფილის ნახვა",
+      "imageAlt": "გურამ ხასია"
+    },
+    "focus": {
+      "eyebrow": "საქმიანობის სფერო",
+      "title": "პრაქტიკული ინჟინერია კომპლექსური პროდუქტებისთვის",
+      "items": {
+        "architecture": {
+          "title": "მასშტაბირებადი Frontend არქიტექტურა",
+          "description": "ქმნის მასშტაბირებად ვებ-სისტემებსა და მიკრო-ფრონტენდ არქიტექტურებს React-ის, Next.js-ის, TypeScript-ისა და Single-SPA-ის გამოყენებით."
+        },
+        "performance": {
+          "title": "წარმადობის ინჟინერია",
+          "description": "Skillwill-ის JavaScript ბანდლი 30%-ით შეამცირა, ხოლო Time to Interactive 1.2 წამით გააუმჯობესა SSR-ის, code splitting-ისა და lazy loading-ის გამოყენებით."
+        },
+        "leadership": {
+          "title": "მენტორობა და თანამშრომლობა",
+          "description": "ხუთ Frontend სტაჟიორს დაეხმარა საწყისი დონიდან ძლიერ Mid და Senior ინჟინრებად განვითარებაში."
+        }
+      }
+    },
+    "about": {
+      "eyebrow": "ჩემ შესახებ",
+      "title": "საიმედო და მაღალი გავლენის მქონე ინტერფეისებისთვის",
+      "description": "მაქვს ტექნიკური შესრულებისა და Frontend ლიდერობის გამოცდილება საბანკო, Enterprise მიგრაციის, მედიის, განათლების, ჯანდაცვისა და სამომხმარებლო პლატფორმებზე. ვფლობ თბილისის სახელმწიფო უნივერსიტეტისის ინფორმაციული ტექნოლოგიების მაგისტრის ხარისხს."
+    },
+    "experience": {
+      "eyebrow": "გამოცდილება",
+      "title": "Enterprise პროდუქტები",
+      "items": {
+        "basisBank": {
+          "organization": "BasisBank",
+          "role": "უფროსი Frontend დეველოპერი",
+          "date": "ივნისი 2024 — დღემდე",
+          "description": "მუშაობს ფართომასშტაბიან ციფრულ საბანკო პლატფორმაზე, რომელიც ორიენტირებულია უსაფრთხო, მასშტაბირებად და მაღალი წარმადობის ფინანსურ სერვისებზე.",
+          "contributionOne": "შექმნა საბანკო ფუნქციები გადასახადებისთვის, გადარიცხვებისთვის, ტრანზაქციების მართვისა და ანგარიშების სერვისებისთვის.",
+          "contributionTwo": "დანერგა SSR და წარმადობის ოპტიმიზაციები, ასევე შექმნა ხელახლა გამოყენებადი UI კომპონენტები და საერთო მოდულები."
+        },
+        "staffbase": {
+          "organization": "Staffbase",
+          "role": "უფროსი Frontend დეველოპერი",
+          "date": "მაისი 2025 — დეკემბერი 2025",
+          "description": "მუშაობდა Enterprise ელფოსტის მიგრაციის პლატფორმაზე, რომელიც გადასცემდა ელფოსტასა და მომხმარებლის კონფიგურაციებს.",
+          "contributionOne": "შექმნა მიგრაციის პროცესები, ავთენტიკაცია, ანგარიშის მართვა და მიგრაციის პროგრესის თვალყურის დევნება.",
+          "contributionTwo": "დაწერა Jest-ისა და Vitest-ის unit და integration ტესტები Enterprise გადაწყვეტისთვის."
+        },
+        "makingScience": {
+          "organization": "Making Science",
+          "role": "უფროსი Frontend დეველოპერი",
+          "date": "მარტი 2021 — მაისი 2024",
+          "description": "მუშაობდა Enterprise პროდუქტებზე მედიის, განათლებისა და სამომხმარებლო პლატფორმებისთვის.",
+          "contributionOne": "Philip Morris International-ის მონოლითური Frontend მიკრო-ფრონტენდ არქიტექტურაზე გადაიყვანა.",
+          "contributionTwo": "შექმნა სტრიმინგის, სასწავლო და სამომხმარებლო პლატფორმები state management-ის, SSR-ის, code splitting-ისა და lazy loading-ის გამოყენებით."
+        },
+        "aptos": {
+          "organization": "Aptos",
+          "role": "Frontend დეველოპერი",
+          "date": "სექტემბერი 2020 — აპრილი 2021",
+          "description": "სამედიცინო პლატფორმა თანამედროვე UI-ით განაახლა.",
+          "contributionOne": "შექმნა ადმინისტრაციული დაფები და ანალიტიკური ფუნქციები.",
+          "contributionTwo": "გააუმჯობესა გამოყენებადობა და აპლიკაციის საერთო წარმადობა."
+        },
+        "translateGe": {
+          "organization": "translate.ge",
+          "role": "Full-Stack დეველოპერი",
+          "date": "ნოემბერი 2019 — აგვისტო 2020",
+          "description": "ონლაინ სათარგმნი პლატფორმა Frontend-იდან Backend-მდე სრულად განახორციელა.",
+          "contributionOne": "შექმნა დოკუმენტების ატვირთვისა და ონლაინ გადახდის შესაძლებლობები.",
+          "contributionTwo": "შეიმუშავა ფასის გამოთვლის ლოგიკა დოკუმენტის შინაარსის საფუძველზე."
+        }
+      }
+    },
+    "education": {
+      "eyebrow": "განათლება",
+      "title": "აკადემიური საფუძველი",
+      "items": {
+        "masters": {
+          "degree": "მაგისტრის ხარისხი ინფორმაციულ ტექნოლოგიებში",
+          "institution": "თბილისის სახელმწიფო უნივერსიტეტი",
+          "detail": "2019 — 2021 · GPA 3.6 / 4"
+        },
+        "bachelors": {
+          "degree": "ბაკალავრის ხარისხი კომპიუტერულ მეცნიერებებში",
+          "institution": "თბილისის სახელმწიფო უნივერსიტეტი",
+          "detail": "2015 — 2019"
+        }
+      }
+    },
+    "contact": {
+      "eyebrow": "კონტაქტი",
+      "title": "განვიხილოთ თქვენი მომდევნო Frontend გამოწვევა.",
+      "description": "მასშტაბირებად და მაღალი წარმადობის Frontend აპლიკაციებთან დაკავშირებული შესაძლებლობებისთვის დამიკავშირდით ელფოსტით.",
+      "emailCta": "ელფოსტის გაგზავნა"
+    },
+    "technology": {
+      "eyebrow": "ტექნოლოგიები",
+      "title": "ფოკუსირებული Frontend ხელსაწყოები",
+      "description": "ტექნოლოგიები, რომლებსაც ვიყენებ მასშტაბირებად Frontend არქიტექტურაში, აპლიკაციების განვითარებაში, state management-ში, ტესტირებასა და build tooling-ში.",
+      "primaryLabel": "ძირითადი ტექნოლოგიები",
+      "supportingLabel": "დამხმარე ტექნოლოგიები",
+      "items": {
+        "javascript": "JavaScript",
+        "typescript": "TypeScript",
+        "react": "React",
+        "nextjs": "Next.js",
+        "tailwind": "Tailwind CSS",
+        "zustand": "Zustand",
+        "redux": "Redux",
+        "singleSpa": "Single-SPA",
+        "jest": "Jest",
+        "reactTestingLibrary": "React Testing Library",
+        "webpack": "Webpack",
+        "html": "HTML",
+        "css": "CSS",
+        "microfrontendArchitecture": "მიკრო-ფრონტენდ არქიტექტურა"
+      }
+    }
   }
 }

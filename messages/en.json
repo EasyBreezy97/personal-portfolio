@@ -24,5 +24,133 @@
   },
   "Footer": {
     "copyright": "© {year} {name}"
+  },
+  "Home": {
+    "metadata": {
+      "title": "Senior Frontend Developer — React, Next.js & TypeScript",
+      "description": "Guram Khasia is a Senior Frontend Developer specializing in scalable React, Next.js, TypeScript, and micro-frontend architectures."
+    },
+    "hero": {
+      "eyebrow": "Guram Khasia",
+      "title": "Senior Frontend Developer",
+      "lead": "Front-end Engineer specializing in scalable web architectures, micro-frontends, and high-performance enterprise applications in banking and international sectors.",
+      "emailCta": "Get in touch",
+      "githubCta": "View GitHub profile",
+      "imageAlt": "Portrait of Guram Khasia"
+    },
+    "focus": {
+      "eyebrow": "What I do",
+      "title": "Practical engineering for complex products",
+      "items": {
+        "architecture": {
+          "title": "Scalable frontend architecture",
+          "description": "Builds scalable web systems and micro-frontend architectures with React, Next.js, TypeScript, and Single-SPA."
+        },
+        "performance": {
+          "title": "Performance engineering",
+          "description": "Improved a Skillwill JavaScript bundle by 30% and reduced Time to Interactive by 1.2 seconds through SSR, code splitting, and lazy loading."
+        },
+        "leadership": {
+          "title": "Mentorship and collaboration",
+          "description": "Mentored five frontend interns from entry-level to high-performing mid and senior engineering roles."
+        }
+      }
+    },
+    "about": {
+      "eyebrow": "About",
+      "title": "Built for reliable, high-impact interfaces",
+      "description": "Experienced in technical execution and frontend leadership across banking, enterprise migration, media, education, healthcare, and consumer platforms. Holds an M.S. in Information Technology from Tbilisi State University."
+    },
+    "experience": {
+      "eyebrow": "Experience",
+      "title": "Enterprise frontend work",
+      "items": {
+        "basisBank": {
+          "organization": "BasisBank",
+          "role": "Senior Frontend Developer",
+          "date": "June 2024 — Present",
+          "description": "Developing a large-scale digital banking platform focused on secure, scalable, and high-performance financial services.",
+          "contributionOne": "Built core banking features for bill payments, transfers, transaction management, and account services.",
+          "contributionTwo": "Implemented SSR and performance optimizations and developed reusable UI components and shared modules."
+        },
+        "staffbase": {
+          "organization": "Staffbase",
+          "role": "Senior Frontend Developer",
+          "date": "May 2025 — December 2025",
+          "description": "Worked on an enterprise email migration platform for migrating mail and user configurations.",
+          "contributionOne": "Developed migration workflows, authentication, account management, and migration progress tracking.",
+          "contributionTwo": "Wrote unit and integration tests with Jest and Vitest for a production-ready enterprise solution."
+        },
+        "makingScience": {
+          "organization": "Making Science",
+          "role": "Senior Frontend Developer",
+          "date": "March 2021 — May 2024",
+          "description": "Worked on enterprise products across media, education, and consumer platforms.",
+          "contributionOne": "Migrated a Philip Morris International frontend from a monolith to a microfrontend architecture.",
+          "contributionTwo": "Built streaming, learning, and consumer platforms with state management, SSR, code splitting, and lazy loading."
+        },
+        "aptos": {
+          "organization": "Aptos",
+          "role": "Frontend Developer",
+          "date": "September 2020 — April 2021",
+          "description": "Redesigned a healthcare platform with a modern UI.",
+          "contributionOne": "Developed administrative dashboards and analytics features.",
+          "contributionTwo": "Improved usability and overall application performance."
+        },
+        "translateGe": {
+          "organization": "translate.ge",
+          "role": "Full-Stack Developer",
+          "date": "November 2019 — August 2020",
+          "description": "Delivered an online translation platform end-to-end from frontend to backend.",
+          "contributionOne": "Built document upload and online payment capabilities.",
+          "contributionTwo": "Developed pricing calculation logic based on document content."
+        }
+      }
+    },
+    "education": {
+      "eyebrow": "Education",
+      "title": "Academic foundation",
+      "items": {
+        "masters": {
+          "degree": "Master's degree in Information Technology",
+          "institution": "Tbilisi State University",
+          "detail": "2019 — 2021 · GPA 3.6 / 4"
+        },
+        "bachelors": {
+          "degree": "Bachelor's degree in Computer Science",
+          "institution": "Tbilisi State University",
+          "detail": "2015 — 2019"
+        }
+      }
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Let’s discuss your next frontend challenge.",
+      "description": "For opportunities involving scalable, high-performance frontend applications, get in touch by email.",
+      "emailCta": "Email Guram"
+    },
+    "technology": {
+      "eyebrow": "Technology",
+      "title": "A focused frontend toolkit",
+      "description": "The technologies I use across scalable frontend architecture, application development, state management, testing, and build tooling.",
+      "primaryLabel": "Primary technologies",
+      "supportingLabel": "Supporting technologies",
+      "items": {
+        "javascript": "JavaScript",
+        "typescript": "TypeScript",
+        "react": "React",
+        "nextjs": "Next.js",
+        "tailwind": "Tailwind CSS",
+        "zustand": "Zustand",
+        "redux": "Redux",
+        "singleSpa": "Single-SPA",
+        "jest": "Jest",
+        "reactTestingLibrary": "React Testing Library",
+        "webpack": "Webpack",
+        "html": "HTML",
+        "css": "CSS",
+        "microfrontendArchitecture": "Microfrontend architecture"
+      }
+    }
   }
 }
