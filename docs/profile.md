@@ -83,4 +83,12 @@ Date: Nov 2019 - Aug 2020
 2019-2021 - Tbilisi State University , Master's degree Information Technology, GPA 3.6 / 4
 
 
-2019-2021 - Tbilisi State University , Bachelor's degree Computer Science
+2015-2019 - Tbilisi State University , Bachelor's degree Computer Science
+
+
+
+### Links
+
+github: https://github.com/EasyBreezy97
+linkedin: https://www.linkedin.com/in/guram-k-75ab591b0/
+email: gurikakhasia@gmail.com
