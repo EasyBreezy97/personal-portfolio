@@ -55,6 +55,12 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+:lang(ka) body {
+  font-family: var(--font-noto-georgian), Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
 ::selection {
   background: var(--surface-muted);
   color: var(--ink);
@@ -124,6 +130,19 @@ a {
   max-width: 66ch;
   color: var(--ink-muted);
   font-size: clamp(1rem, 1vw + 0.8rem, 1.125rem);
+}
+
+:lang(ka) .type-display,
+:lang(ka) .type-heading,
+:lang(ka) .type-subheading {
+  font-family: var(--font-noto-georgian), Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  text-transform: uppercase;
+}
+
+:lang(ka) .type-display {
+  line-height: 1.05;
 }
 
 .theme-icon--sun {

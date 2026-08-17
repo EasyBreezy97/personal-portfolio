@@ -1,0 +1,28 @@
+{
+  "Site": {
+    "name": "გურამ ხასია"
+  },
+  "Metadata": {
+    "description": "უფროსი Frontend დეველოპერი, სპეციალიზებული React-ში, Next.js-ში, TypeScript-სა და მიკრო-ფრონტენდებში."
+  },
+  "Accessibility": {
+    "skipToContent": "მთავარ შინაარსზე გადასვლა"
+  },
+  "Navigation": {
+    "primaryLabel": "ძირითადი ნავიგაცია",
+    "footerLabel": "ქვედა ნავიგაცია",
+    "github": "გითჰაბი",
+    "linkedin": "ლინკდინი",
+    "email": "ელფოსტა",
+    "openMenu": "ნავიგაციის მენიუს გახსნა",
+    "languageLabel": "ენა",
+    "en": "ინგლისური",
+    "ka": "ქართული"
+  },
+  "ThemeToggle": {
+    "label": "თემის შეცვლა"
+  },
+  "Footer": {
+    "copyright": "© {year} {name}"
+  }
+}

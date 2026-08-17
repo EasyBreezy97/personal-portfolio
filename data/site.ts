@@ -1,16 +1,15 @@
 export const site = {
-  name: "Guram Khasia",
   socialLinks: [
     {
-      label: "GitHub",
+      labelKey: "github",
       href: "https://github.com/EasyBreezy97",
     },
     {
-      label: "LinkedIn",
+      labelKey: "linkedin",
       href: "https://www.linkedin.com/in/guram-k-75ab591b0/",
     },
     {
-      label: "Email",
+      labelKey: "email",
       href: "mailto:gurikakhasia@gmail.com",
     },
   ],

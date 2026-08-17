@@ -1,5 +1,7 @@
 "use client";
 
+import { useTranslations } from "next-intl";
+
 type Theme = "dark" | "light";
 
 function getSystemTheme(): Theme {
@@ -15,6 +17,8 @@ function applyTheme(theme: Theme) {
 }
 
 export function ThemeToggle() {
+  const t = useTranslations("ThemeToggle");
+
   function toggleTheme() {
     const currentTheme =
       document.documentElement.dataset.theme === "dark" ||
@@ -29,7 +33,7 @@ export function ThemeToggle() {
     <button
       type="button"
       className="grid size-10 place-items-center rounded-full border border-[var(--border)] text-[var(--ink)] transition-colors hover:bg-[var(--surface-muted)]"
-      aria-label="Toggle color theme"
+      aria-label={t("label")}
       onClick={toggleTheme}
     >
       <svg aria-hidden="true" viewBox="0 0 24 24" className="theme-icon theme-icon--sun size-[1.125rem]" fill="none" stroke="currentColor" strokeWidth="1.8">

@@ -1,0 +1,28 @@
+{
+  "Site": {
+    "name": "Guram Khasia"
+  },
+  "Metadata": {
+    "description": "Senior Frontend Developer specializing in React, Next.js, TypeScript, and micro-frontends."
+  },
+  "Accessibility": {
+    "skipToContent": "Skip to main content"
+  },
+  "Navigation": {
+    "primaryLabel": "Primary navigation",
+    "footerLabel": "Footer navigation",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "email": "Email",
+    "openMenu": "Open navigation menu",
+    "languageLabel": "Language",
+    "en": "English",
+    "ka": "Georgian"
+  },
+  "ThemeToggle": {
+    "label": "Toggle color theme"
+  },
+  "Footer": {
+    "copyright": "© {year} {name}"
+  }
+}

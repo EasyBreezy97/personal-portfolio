@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl";
 import { site } from "@/data/site";
 
 type NavigationLinksProps = {
@@ -5,10 +6,12 @@ type NavigationLinksProps = {
 };
 
 export function NavigationLinks({ className }: NavigationLinksProps) {
+  const t = useTranslations("Navigation");
+
   return (
     <ul className={className}>
       {site.socialLinks.map((link) => (
-        <li key={link.label}>
+        <li key={link.labelKey}>
           <a
             className="text-sm font-medium text-[var(--ink-muted)] transition-colors hover:text-[var(--ink)]"
             href={link.href}
@@ -16,7 +19,7 @@ export function NavigationLinks({ className }: NavigationLinksProps) {
               ? { rel: "noreferrer", target: "_blank" }
               : {})}
           >
-            {link.label}
+          {t(link.labelKey)}
           </a>
         </li>
       ))}
