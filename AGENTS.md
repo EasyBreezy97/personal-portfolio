@@ -1,9 +1,17 @@
-<!-- BEGIN:nextjs-agent-rules -->
+This repository contains my personal developer portfolio.
 
-# This is NOT the Next.js you know
+Goals:
+1. SEO
+2. Performance
+3. Accessibility
+4. Clean design
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
+Stack:
+- Next.js
+- TypeScript
+- Tailwind
+- Vercel
 
-This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
-
-<!-- END:nextjs-agent-rules -->
+Never invent personal information.
+Always use docs/profile.md as the source of truth.
+Run lint, typecheck, and build before completing tasks.
